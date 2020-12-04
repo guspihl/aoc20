@@ -58,4 +58,6 @@ for i in valid_passports:
             valid-=1
             break
     valid+=1
-print(valid)
+
+print("Part 1:",len(valid_passports))
+print("Part 2:",valid)
