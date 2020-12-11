@@ -34,6 +34,3 @@ while i < len(l):
     else:
         i += 1
 print("Part 2:",paths)
-
-
-#1 2 4 7 11?
